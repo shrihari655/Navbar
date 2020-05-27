@@ -1,0 +1,36 @@
+
+body{
+	font-family: 'Dancing Script', cursive;
+	background-color: black;
+}
+
+#a{
+	background-color: whitesmoke;
+	height: 50px;
+
+}
+
+#b{
+	float:left;
+	font-family: 'Dancing Script', cursive;
+	font-size:34px;
+	color: black;
+	margin: 3px;
+	text-decoration: none;
+
+
+}
+#c{
+	float: right;
+	font-family: 'Dancing Script', cursive;
+	font-size:24px;
+	color: black;
+	padding: 5px;
+	margin: 3px;
+	text-decoration: none;
+
+}
+img{
+	max-height: 500px;
+	width: 100%;
+}
